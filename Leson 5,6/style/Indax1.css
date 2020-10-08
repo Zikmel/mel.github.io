@@ -1,0 +1,9 @@
+body{
+	background-image:url('../img/ghg.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+img{
+	background-size: cover;
+	background-attachment: fixed;
+}

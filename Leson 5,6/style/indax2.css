@@ -1,0 +1,17 @@
+body{
+	background-image:url('../img/fon2.png');
+	background-size: cover;
+	background-attachment: fixed;
+}
+img{
+	border-radius:12px;
+}
+h1, h2{
+	color: black;
+	text-align: center;
+	font-size: 40px;
+	border: 12px;
+	border-radius: 30px;
+	background-color: red;
+
+}
